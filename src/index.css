@@ -9,6 +9,12 @@ body,
   width: 100%;
   font-family: "Source Sans Pro", sans-serif;
 }
+.content {
+  overflow-y: scroll;
+}
+.content::-webkit-scrollbar{
+  display: none;
+}
 
 .app {
   display: flex;
@@ -16,7 +22,7 @@ body,
 }
 
 ::-webkit-scrollbar {
-  width: 10px;
+  width: 5px;
 }
 
 /* Track */

@@ -1,0 +1,14 @@
+.signup_active:active{
+    background-color: greenyellow !important;
+    color: black !important;
+}
+.signup_main{
+    /* color: antiquewhite; */
+    background: linear-gradient(rgba(17, 17, 17, 0.5), rgba(20, 20, 20, 0.5)), url(https://thumbs.dreamstime.com/b/admin-office-binder-wooden-desk-table-colored-pencil-pencils-pen-notebook-paper-79046621.jpg);
+}
+
+@media screen and (max-width: 673px){
+    .signup_img{
+        width: 80% !important;
+    }
+}

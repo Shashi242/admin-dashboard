@@ -1,0 +1,21 @@
+.btn_active:active{
+    background-color: greenyellow !important;
+    color: black !important;
+}
+.login_main{
+    border-radius: "20px" !important;
+    box-shadow: "0 0 7px black";
+    background: linear-gradient(rgba(17, 17, 17, 0.5), rgba(20, 20, 20, 0.5)), url(https://thumbs.dreamstime.com/b/admin-office-binder-wooden-desk-table-colored-pencil-pencils-pen-notebook-paper-79046621.jpg);
+    /* background-image: url("https://avatars.githubusercontent.com/u/84275426?v=4"); */
+    background-size: cover;
+    overflow: hidden;
+}
+.isSignup{
+    color: white !important;
+}
+
+@media screen and (max-width: 673px){
+    .login_img{
+        width: 80% !important;
+    }
+}
