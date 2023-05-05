@@ -373,28 +373,7 @@ export const mockBarData = [
     donut: 35,
     donutColor: "hsl(285, 70%, 50%)",
   },
-  // {
-  //   country: "December",
-  //   "hot dog": 66,
-  //   "hot dogColor": "hsl(208, 70%, 50%)",
-  //   burger: 111,
-  //   burgerColor: "hsl(334, 70%, 50%)",
-  //   kebab: 167,
-  //   kebabColor: "hsl(182, 70%, 50%)",
-  //   donut: 18,
-  //   donutColor: "hsl(76, 70%, 50%)",
-  // },
-  // {
-  //   country: "Jan",
-  //   "hot dog": 80,
-  //   "hot dogColor": "hsl(87, 70%, 50%)",
-  //   burger: 47,
-  //   burgerColor: "hsl(141, 70%, 50%)",
-  //   kebab: 158,
-  //   kebabColor: "hsl(224, 70%, 50%)",
-  //   donut: 49,
-  //   donutColor: "hsl(274, 70%, 50%)",
-  // },
+ 
 ];
 
 export const mockPieData = [
